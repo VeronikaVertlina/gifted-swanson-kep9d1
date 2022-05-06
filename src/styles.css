@@ -1,0 +1,57 @@
+body {
+  color: darkblue;
+}
+
+h1,
+h4 {
+  color: darkblue;
+}
+
+p {
+  text-align: left;
+}
+
+.card {
+  background-color: lightgrey;
+  color: #000;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.container-fluid {
+  width: 708px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.dashForm {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  display: table;
+}
+
+.form-select {
+  width: 250px;
+  border-radius: 0.25rem;
+  border: #265583 solid 2px !important;
+}
+
+.input-group {
+  margin-top: 50px;
+}
+
+.input-group-append {
+  border-radius: 0.25rem;
+  border: #6c757d solid 2px !important;
+  margin-left: 10px;
+}
